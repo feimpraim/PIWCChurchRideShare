@@ -102,7 +102,7 @@ const Register = () => {
             </Link>
           </div>
           <p className="text-center text-gray-500 text-xs mt-8">
-            &copy;2023 Church Ride Service. All rights reserved.
+            &copy;2024 Church Ride Service. All rights reserved.
           </p>
         </div>
       </main>
